@@ -1,0 +1,14 @@
+﻿  oldmain.cpp
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(418,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(427,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(436,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(437,36): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(438,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(439,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(443,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(444,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(445,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(446,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(459,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\oldmain.cpp(460,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  OpenGL_project.vcxproj -> h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\x64\Debug\OpenGL_project.exe

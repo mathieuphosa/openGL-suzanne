@@ -1,0 +1,12 @@
+﻿  main.cpp
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\main.cpp(172,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\main.cpp(175,58): warning C4312: 'type cast': conversion from 'int' to 'GLvoid *' of greater size
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\main.cpp(197,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\main.cpp(198,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\OpenGL_project\main.cpp(222,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating code
+  0 of 204 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGL_project.vcxproj -> h:\Documents\0.ING3\OpenGL\Workspace\OpenGL_project\x64\Release\OpenGL_project.exe
